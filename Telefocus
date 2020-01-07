@@ -66,7 +66,7 @@ http://42.0.6.130/hls/P2n6mKElOtuUx228uH9PeQ/1576664140/nagorik_tv_hi/index.m3u8
 #EXTINF:-1,News 24
 http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1,RTV
-http://163.172.29.246:8081/globe/newrtv/chunks.m3u8
+http://103.121.36.238:8081/live/rtv/playlist.m3u8
 #EXTINF:-1,SA TV
 http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1,Somoy News
@@ -82,7 +82,7 @@ https://streamer-1.toffeelive.com/live/akash_aath_720/index.m3u8
 #EXTINF:-1,Akaash Aath (Opt-02)
 http://streamidvo.multitvsolution.in/AkashBangla-a/playlist.m3u8
 #EXTINF:-1,Colors Bangla (Opt-01)
-http://163.172.29.246:8081/globe/colorsbangla/chunks.m3u8
+http://42.0.6.130/hls/9wtIyoyl1vgtKK5pmIDuEA/1564901969/colors_bangla_hi/index.m3u8
 #EXTINF:-1,Colors Bangla (Opt-02)
 http://103.121.36.238:8081/live/colorsbangla-59/chunks.m3u8
 #EXTINF:-1,Sony Aath (Opt-01)
@@ -500,10 +500,8 @@ https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m
 #EXTINF:-1,foodiee
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:-1,Star Movies HD (Opt-1)
-https://akamai.anytv.live/StarMoviesHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Movies HD (Opt-2)
 http://103.121.36.238:8081/live/starmovies/chunks.m3u8
-#EXTINF:-1,Star Movies HD (Opt-3)
+#EXTINF:-1,Star Movies HD (Opt-2)
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO (Opt-1)
 http://103.118.76.229:1935/tvprogram/HBO/playlist.m3u8
@@ -519,8 +517,6 @@ http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/index.m3u8
 #EXTINF:-1,MNX
 http://103.121.36.238:8081/live/mnx/playlist.m3u8
-#EXTINF:-1,MN+ HD
-https://akamai.anytv.live/MNPlusHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Thrill HD
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1,AXN
@@ -537,10 +533,6 @@ https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1,SCI-FI MOVIES
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1,STAR WORLD PREMIER HD
-https://akamai.anytv.live/StarWorldPremierHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star World
-https://akamai.anytv.live/StarWorldHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star World (UAE)
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF:-1,& flix (Opt-1)
@@ -731,8 +723,6 @@ http://playhls.media.nic.in/live/vyas/index.m3u8
 http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
 #EXTINF:-1,TVL
 http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
-#EXTINF:-1,FOX Life
-https://akamai.anytv.live/FoxLifeHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,History TV
 http://103.121.36.238:8081/live/history/chunks.m3u8
 #EXTINF:-1,History 2
